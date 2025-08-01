@@ -18,7 +18,11 @@ How to run Frontend:
     npm run dev
  
 How to run Backend:
+
   Open new terminal
+
     cd backend
+    
     pip install -r requirements.txt 
+    
     python run_backend_services.py
