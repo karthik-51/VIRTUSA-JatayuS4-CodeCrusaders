@@ -1,0 +1,516 @@
+{
+  "State Bank of India (SBI)": {
+    "YONO SBI": {
+      "Core Banking System": {
+        "Error Rate": 0.58,
+        "Response Time": 303,
+        "Crashes/Week": 0,
+        "Uptime": 99.57
+      },
+      "Payment Gateway": {
+        "Error Rate": 1.29,
+        "Response Time": 355,
+        "Crashes/Week": 0,
+        "Uptime": 98.1
+      },
+      "Mobile App Services": {
+        "Error Rate": 3.5,
+        "Response Time": 885,
+        "Crashes/Week": 1,
+        "Uptime": 95.18
+      },
+      "Notification Engine": {
+        "Error Rate": 4.66,
+        "Response Time": 1017,
+        "Crashes/Week": 1,
+        "Uptime": 95.09
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 3.13,
+        "Response Time": 857,
+        "Crashes/Week": 1,
+        "Uptime": 96.98
+      },
+      "Loan Approval System": {
+        "Error Rate": 0.63,
+        "Response Time": 391,
+        "Crashes/Week": 0,
+        "Uptime": 99.41
+      }
+    },
+    "Online SBI": {
+      "Core Banking System": {
+        "Error Rate": 1.41,
+        "Response Time": 281,
+        "Crashes/Week": 0,
+        "Uptime": 99.11
+      },
+      "Payment Gateway": {
+        "Error Rate": 4.32,
+        "Response Time": 916,
+        "Crashes/Week": 1,
+        "Uptime": 96.09
+      },
+      "Mobile App Services": {
+        "Error Rate": 1.16,
+        "Response Time": 235,
+        "Crashes/Week": 0,
+        "Uptime": 99.28
+      },
+      "Notification Engine": {
+        "Error Rate": 0.47,
+        "Response Time": 239,
+        "Crashes/Week": 0,
+        "Uptime": 99.68
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 4.46,
+        "Response Time": 1031,
+        "Crashes/Week": 3,
+        "Uptime": 96.93
+      },
+      "Loan Approval System": {
+        "Error Rate": 3.7,
+        "Response Time": 822,
+        "Crashes/Week": 1,
+        "Uptime": 96.73
+      }
+    }
+  },
+  "HDFC Bank": {
+    "PayZapp": {
+      "Core Banking System": {
+        "Error Rate": 3.46,
+        "Response Time": 1069,
+        "Crashes/Week": 3,
+        "Uptime": 96.81
+      },
+      "Payment Gateway": {
+        "Error Rate": 0.64,
+        "Response Time": 331,
+        "Crashes/Week": 0,
+        "Uptime": 99.4
+      },
+      "Mobile App Services": {
+        "Error Rate": 4.52,
+        "Response Time": 1070,
+        "Crashes/Week": 1,
+        "Uptime": 95.78
+      },
+      "Notification Engine": {
+        "Error Rate": 4.4,
+        "Response Time": 979,
+        "Crashes/Week": 1,
+        "Uptime": 96.49
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 4.38,
+        "Response Time": 1063,
+        "Crashes/Week": 3,
+        "Uptime": 96.45
+      },
+      "Loan Approval System": {
+        "Error Rate": 1.3,
+        "Response Time": 232,
+        "Crashes/Week": 0,
+        "Uptime": 98.18
+      }
+    },
+    "HDFC Sky": {
+      "Core Banking System": {
+        "Error Rate": 3.6,
+        "Response Time": 1152,
+        "Crashes/Week": 1,
+        "Uptime": 96.83
+      },
+      "Payment Gateway": {
+        "Error Rate": 4.68,
+        "Response Time": 1073,
+        "Crashes/Week": 2,
+        "Uptime": 96.58
+      },
+      "Mobile App Services": {
+        "Error Rate": 4.36,
+        "Response Time": 882,
+        "Crashes/Week": 2,
+        "Uptime": 96.71
+      },
+      "Notification Engine": {
+        "Error Rate": 3.04,
+        "Response Time": 1055,
+        "Crashes/Week": 2,
+        "Uptime": 95.12
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 4.85,
+        "Response Time": 936,
+        "Crashes/Week": 3,
+        "Uptime": 95.95
+      },
+      "Loan Approval System": {
+        "Error Rate": 0.65,
+        "Response Time": 343,
+        "Crashes/Week": 0,
+        "Uptime": 98.99
+      }
+    }
+  },
+  "ICICI Bank": {
+    "iMobile": {
+      "Core Banking System": {
+        "Error Rate": 0.35,
+        "Response Time": 390,
+        "Crashes/Week": 0,
+        "Uptime": 99.88
+      },
+      "Payment Gateway": {
+        "Error Rate": 3.62,
+        "Response Time": 1117,
+        "Crashes/Week": 3,
+        "Uptime": 96.0
+      },
+      "Mobile App Services": {
+        "Error Rate": 4.16,
+        "Response Time": 928,
+        "Crashes/Week": 3,
+        "Uptime": 95.63
+      },
+      "Notification Engine": {
+        "Error Rate": 4.8,
+        "Response Time": 1167,
+        "Crashes/Week": 1,
+        "Uptime": 96.48
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 0.18,
+        "Response Time": 376,
+        "Crashes/Week": 0,
+        "Uptime": 98.44
+      },
+      "Loan Approval System": {
+        "Error Rate": 3.25,
+        "Response Time": 1181,
+        "Crashes/Week": 1,
+        "Uptime": 96.16
+      }
+    },
+    "Pockets": {
+      "Core Banking System": {
+        "Error Rate": 0.17,
+        "Response Time": 393,
+        "Crashes/Week": 0,
+        "Uptime": 98.92
+      },
+      "Payment Gateway": {
+        "Error Rate": 4.66,
+        "Response Time": 1141,
+        "Crashes/Week": 1,
+        "Uptime": 96.5
+      },
+      "Mobile App Services": {
+        "Error Rate": 0.88,
+        "Response Time": 367,
+        "Crashes/Week": 0,
+        "Uptime": 99.44
+      },
+      "Notification Engine": {
+        "Error Rate": 4.75,
+        "Response Time": 1149,
+        "Crashes/Week": 1,
+        "Uptime": 96.8
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 0.35,
+        "Response Time": 206,
+        "Crashes/Week": 0,
+        "Uptime": 98.62
+      },
+      "Loan Approval System": {
+        "Error Rate": 0.17,
+        "Response Time": 389,
+        "Crashes/Week": 0,
+        "Uptime": 98.76
+      }
+    }
+  },
+  "Axis Bank": {
+    "Axis Mobile": {
+      "Core Banking System": {
+        "Error Rate": 4.42,
+        "Response Time": 902,
+        "Crashes/Week": 2,
+        "Uptime": 96.95
+      },
+      "Payment Gateway": {
+        "Error Rate": 1.33,
+        "Response Time": 332,
+        "Crashes/Week": 0,
+        "Uptime": 98.79
+      },
+      "Mobile App Services": {
+        "Error Rate": 4.85,
+        "Response Time": 834,
+        "Crashes/Week": 1,
+        "Uptime": 95.84
+      },
+      "Notification Engine": {
+        "Error Rate": 3.77,
+        "Response Time": 1147,
+        "Crashes/Week": 1,
+        "Uptime": 96.04
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 0.31,
+        "Response Time": 358,
+        "Crashes/Week": 0,
+        "Uptime": 99.94
+      },
+      "Loan Approval System": {
+        "Error Rate": 3.33,
+        "Response Time": 1139,
+        "Crashes/Week": 1,
+        "Uptime": 96.81
+      }
+    }
+  },
+  "Punjab National Bank (PNB)": {
+    "PNB One": {
+      "Core Banking System": {
+        "Error Rate": 4.97,
+        "Response Time": 983,
+        "Crashes/Week": 3,
+        "Uptime": 95.29
+      },
+      "Payment Gateway": {
+        "Error Rate": 3.51,
+        "Response Time": 1090,
+        "Crashes/Week": 3,
+        "Uptime": 95.21
+      },
+      "Mobile App Services": {
+        "Error Rate": 4.02,
+        "Response Time": 844,
+        "Crashes/Week": 2,
+        "Uptime": 95.85
+      },
+      "Notification Engine": {
+        "Error Rate": 1.39,
+        "Response Time": 369,
+        "Crashes/Week": 0,
+        "Uptime": 98.1
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 1.27,
+        "Response Time": 201,
+        "Crashes/Week": 0,
+        "Uptime": 98.68
+      },
+      "Loan Approval System": {
+        "Error Rate": 3.39,
+        "Response Time": 1002,
+        "Crashes/Week": 2,
+        "Uptime": 96.74
+      }
+    }
+  },
+  "Kotak Mahindra Bank": {
+    "Kotak 811": {
+      "Core Banking System": {
+        "Error Rate": 4.02,
+        "Response Time": 1088,
+        "Crashes/Week": 1,
+        "Uptime": 96.0
+      },
+      "Payment Gateway": {
+        "Error Rate": 0.73,
+        "Response Time": 389,
+        "Crashes/Week": 0,
+        "Uptime": 98.06
+      },
+      "Mobile App Services": {
+        "Error Rate": 3.16,
+        "Response Time": 959,
+        "Crashes/Week": 1,
+        "Uptime": 96.99
+      },
+      "Notification Engine": {
+        "Error Rate": 4.96,
+        "Response Time": 808,
+        "Crashes/Week": 2,
+        "Uptime": 96.57
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 3.46,
+        "Response Time": 1026,
+        "Crashes/Week": 1,
+        "Uptime": 95.02
+      },
+      "Loan Approval System": {
+        "Error Rate": 3.57,
+        "Response Time": 987,
+        "Crashes/Week": 3,
+        "Uptime": 95.09
+      }
+    }
+  },
+  "Bank of Baroda": {
+    "Baroda Connect": {
+      "Core Banking System": {
+        "Error Rate": 3.1,
+        "Response Time": 938,
+        "Crashes/Week": 2,
+        "Uptime": 95.35
+      },
+      "Payment Gateway": {
+        "Error Rate": 3.23,
+        "Response Time": 1125,
+        "Crashes/Week": 2,
+        "Uptime": 96.47
+      },
+      "Mobile App Services": {
+        "Error Rate": 3.73,
+        "Response Time": 1154,
+        "Crashes/Week": 3,
+        "Uptime": 95.26
+      },
+      "Notification Engine": {
+        "Error Rate": 3.57,
+        "Response Time": 1128,
+        "Crashes/Week": 3,
+        "Uptime": 95.1
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 3.62,
+        "Response Time": 1124,
+        "Crashes/Week": 3,
+        "Uptime": 96.44
+      },
+      "Loan Approval System": {
+        "Error Rate": 3.56,
+        "Response Time": 996,
+        "Crashes/Week": 2,
+        "Uptime": 95.76
+      }
+    }
+  },
+  "Union Bank of India": {
+    "Union Mobile": {
+      "Core Banking System": {
+        "Error Rate": 4.12,
+        "Response Time": 1156,
+        "Crashes/Week": 2,
+        "Uptime": 96.76
+      },
+      "Payment Gateway": {
+        "Error Rate": 0.79,
+        "Response Time": 256,
+        "Crashes/Week": 0,
+        "Uptime": 98.14
+      },
+      "Mobile App Services": {
+        "Error Rate": 3.05,
+        "Response Time": 1095,
+        "Crashes/Week": 2,
+        "Uptime": 95.39
+      },
+      "Notification Engine": {
+        "Error Rate": 0.12,
+        "Response Time": 264,
+        "Crashes/Week": 0,
+        "Uptime": 99.57
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 0.49,
+        "Response Time": 269,
+        "Crashes/Week": 0,
+        "Uptime": 98.2
+      },
+      "Loan Approval System": {
+        "Error Rate": 4.04,
+        "Response Time": 1082,
+        "Crashes/Week": 3,
+        "Uptime": 96.14
+      }
+    }
+  },
+  "Canara Bank": {
+    "Canara mBanking": {
+      "Core Banking System": {
+        "Error Rate": 0.57,
+        "Response Time": 298,
+        "Crashes/Week": 0,
+        "Uptime": 98.81
+      },
+      "Payment Gateway": {
+        "Error Rate": 0.3,
+        "Response Time": 212,
+        "Crashes/Week": 0,
+        "Uptime": 98.88
+      },
+      "Mobile App Services": {
+        "Error Rate": 3.58,
+        "Response Time": 1113,
+        "Crashes/Week": 1,
+        "Uptime": 96.08
+      },
+      "Notification Engine": {
+        "Error Rate": 3.61,
+        "Response Time": 821,
+        "Crashes/Week": 2,
+        "Uptime": 95.05
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 0.12,
+        "Response Time": 334,
+        "Crashes/Week": 0,
+        "Uptime": 98.13
+      },
+      "Loan Approval System": {
+        "Error Rate": 4.66,
+        "Response Time": 1061,
+        "Crashes/Week": 1,
+        "Uptime": 96.72
+      }
+    }
+  },
+  "IDBI Bank": {
+    "IDBI Go": {
+      "Core Banking System": {
+        "Error Rate": 4.98,
+        "Response Time": 905,
+        "Crashes/Week": 2,
+        "Uptime": 95.7
+      },
+      "Payment Gateway": {
+        "Error Rate": 4.15,
+        "Response Time": 812,
+        "Crashes/Week": 2,
+        "Uptime": 96.07
+      },
+      "Mobile App Services": {
+        "Error Rate": 0.97,
+        "Response Time": 397,
+        "Crashes/Week": 0,
+        "Uptime": 99.49
+      },
+      "Notification Engine": {
+        "Error Rate": 4.39,
+        "Response Time": 1142,
+        "Crashes/Week": 2,
+        "Uptime": 96.73
+      },
+      "Fraud Detection Engine": {
+        "Error Rate": 1.04,
+        "Response Time": 333,
+        "Crashes/Week": 0,
+        "Uptime": 99.41
+      },
+      "Loan Approval System": {
+        "Error Rate": 4.7,
+        "Response Time": 1194,
+        "Crashes/Week": 1,
+        "Uptime": 96.08
+      }
+    }
+  }
+}

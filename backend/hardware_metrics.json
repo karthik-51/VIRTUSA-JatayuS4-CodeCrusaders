@@ -1,0 +1,502 @@
+{
+  "State Bank of India (SBI)": {
+    "ATM 1": {
+      "vibration": 42,
+      "power": 82,
+      "components": {
+        "Server Cluster": {
+          "cpu": 38,
+          "memory": 26,
+          "storage": 41,
+          "temperature": 31
+        },
+        "Storage Array": {
+          "cpu": 36,
+          "memory": 35,
+          "storage": 57,
+          "temperature": 53
+        },
+        "Network Switch": {
+          "cpu": 19,
+          "memory": 30,
+          "storage": 27,
+          "temperature": 54
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 66,
+      "power": 94,
+      "components": {
+        "Server Cluster": {
+          "cpu": 36,
+          "memory": 28,
+          "storage": 55,
+          "temperature": 36
+        },
+        "Storage Array": {
+          "cpu": 92,
+          "memory": 82,
+          "storage": 82,
+          "temperature": 84
+        },
+        "Network Switch": {
+          "cpu": 12,
+          "memory": 31,
+          "storage": 30,
+          "temperature": 44
+        }
+      }
+    }
+  },
+  "HDFC Bank": {
+    "ATM 1": {
+      "vibration": 88,
+      "power": 69,
+      "components": {
+        "Server Cluster": {
+          "cpu": 29,
+          "memory": 21,
+          "storage": 34,
+          "temperature": 30
+        },
+        "Storage Array": {
+          "cpu": 61,
+          "memory": 75,
+          "storage": 98,
+          "temperature": 60
+        },
+        "Network Switch": {
+          "cpu": 48,
+          "memory": 40,
+          "storage": 42,
+          "temperature": 55
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 46,
+      "power": 86,
+      "components": {
+        "Server Cluster": {
+          "cpu": 27,
+          "memory": 56,
+          "storage": 70,
+          "temperature": 42
+        },
+        "Storage Array": {
+          "cpu": 41,
+          "memory": 31,
+          "storage": 52,
+          "temperature": 41
+        },
+        "Network Switch": {
+          "cpu": 21,
+          "memory": 32,
+          "storage": 30,
+          "temperature": 34
+        }
+      }
+    }
+  },
+  "ICICI Bank": {
+    "ATM 1": {
+      "vibration": 65,
+      "power": 54,
+      "components": {
+        "Server Cluster": {
+          "cpu": 11,
+          "memory": 30,
+          "storage": 43,
+          "temperature": 33
+        },
+        "Storage Array": {
+          "cpu": 29,
+          "memory": 32,
+          "storage": 69,
+          "temperature": 39
+        },
+        "Network Switch": {
+          "cpu": 47,
+          "memory": 24,
+          "storage": 34,
+          "temperature": 52
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 65,
+      "power": 64,
+      "components": {
+        "Server Cluster": {
+          "cpu": 42,
+          "memory": 60,
+          "storage": 38,
+          "temperature": 38
+        },
+        "Storage Array": {
+          "cpu": 22,
+          "memory": 55,
+          "storage": 53,
+          "temperature": 33
+        },
+        "Network Switch": {
+          "cpu": 46,
+          "memory": 60,
+          "storage": 51,
+          "temperature": 38
+        }
+      }
+    }
+  },
+  "Axis Bank": {
+    "ATM 1": {
+      "vibration": 55,
+      "power": 71,
+      "components": {
+        "Server Cluster": {
+          "cpu": 77,
+          "memory": 71,
+          "storage": 80,
+          "temperature": 76
+        },
+        "Storage Array": {
+          "cpu": 74,
+          "memory": 74,
+          "storage": 95,
+          "temperature": 69
+        },
+        "Network Switch": {
+          "cpu": 43,
+          "memory": 41,
+          "storage": 63,
+          "temperature": 47
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 78,
+      "power": 77,
+      "components": {
+        "Server Cluster": {
+          "cpu": 47,
+          "memory": 36,
+          "storage": 55,
+          "temperature": 39
+        },
+        "Storage Array": {
+          "cpu": 35,
+          "memory": 44,
+          "storage": 48,
+          "temperature": 35
+        },
+        "Network Switch": {
+          "cpu": 10,
+          "memory": 53,
+          "storage": 67,
+          "temperature": 46
+        }
+      }
+    }
+  },
+  "Punjab National Bank (PNB)": {
+    "ATM 1": {
+      "vibration": 72,
+      "power": 52,
+      "components": {
+        "Server Cluster": {
+          "cpu": 79,
+          "memory": 74,
+          "storage": 97,
+          "temperature": 85
+        },
+        "Storage Array": {
+          "cpu": 77,
+          "memory": 94,
+          "storage": 80,
+          "temperature": 65
+        },
+        "Network Switch": {
+          "cpu": 18,
+          "memory": 54,
+          "storage": 41,
+          "temperature": 30
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 44,
+      "power": 95,
+      "components": {
+        "Server Cluster": {
+          "cpu": 30,
+          "memory": 52,
+          "storage": 64,
+          "temperature": 40
+        },
+        "Storage Array": {
+          "cpu": 76,
+          "memory": 86,
+          "storage": 83,
+          "temperature": 70
+        },
+        "Network Switch": {
+          "cpu": 50,
+          "memory": 31,
+          "storage": 37,
+          "temperature": 42
+        }
+      }
+    }
+  },
+  "Kotak Mahindra Bank": {
+    "ATM 1": {
+      "vibration": 43,
+      "power": 61,
+      "components": {
+        "Server Cluster": {
+          "cpu": 39,
+          "memory": 28,
+          "storage": 59,
+          "temperature": 48
+        },
+        "Storage Array": {
+          "cpu": 17,
+          "memory": 60,
+          "storage": 42,
+          "temperature": 35
+        },
+        "Network Switch": {
+          "cpu": 88,
+          "memory": 92,
+          "storage": 84,
+          "temperature": 64
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 75,
+      "power": 86,
+      "components": {
+        "Server Cluster": {
+          "cpu": 85,
+          "memory": 94,
+          "storage": 87,
+          "temperature": 81
+        },
+        "Storage Array": {
+          "cpu": 31,
+          "memory": 26,
+          "storage": 43,
+          "temperature": 42
+        },
+        "Network Switch": {
+          "cpu": 45,
+          "memory": 34,
+          "storage": 26,
+          "temperature": 41
+        }
+      }
+    }
+  },
+  "Bank of Baroda": {
+    "ATM 1": {
+      "vibration": 55,
+      "power": 50,
+      "components": {
+        "Server Cluster": {
+          "cpu": 16,
+          "memory": 39,
+          "storage": 69,
+          "temperature": 39
+        },
+        "Storage Array": {
+          "cpu": 23,
+          "memory": 60,
+          "storage": 46,
+          "temperature": 45
+        },
+        "Network Switch": {
+          "cpu": 95,
+          "memory": 80,
+          "storage": 75,
+          "temperature": 70
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 56,
+      "power": 88,
+      "components": {
+        "Server Cluster": {
+          "cpu": 49,
+          "memory": 58,
+          "storage": 48,
+          "temperature": 34
+        },
+        "Storage Array": {
+          "cpu": 19,
+          "memory": 32,
+          "storage": 33,
+          "temperature": 32
+        },
+        "Network Switch": {
+          "cpu": 23,
+          "memory": 52,
+          "storage": 56,
+          "temperature": 35
+        }
+      }
+    }
+  },
+  "Union Bank of India": {
+    "ATM 1": {
+      "vibration": 59,
+      "power": 74,
+      "components": {
+        "Server Cluster": {
+          "cpu": 84,
+          "memory": 88,
+          "storage": 77,
+          "temperature": 80
+        },
+        "Storage Array": {
+          "cpu": 41,
+          "memory": 42,
+          "storage": 31,
+          "temperature": 49
+        },
+        "Network Switch": {
+          "cpu": 71,
+          "memory": 81,
+          "storage": 93,
+          "temperature": 68
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 47,
+      "power": 80,
+      "components": {
+        "Server Cluster": {
+          "cpu": 65,
+          "memory": 76,
+          "storage": 91,
+          "temperature": 82
+        },
+        "Storage Array": {
+          "cpu": 27,
+          "memory": 39,
+          "storage": 53,
+          "temperature": 47
+        },
+        "Network Switch": {
+          "cpu": 17,
+          "memory": 45,
+          "storage": 40,
+          "temperature": 55
+        }
+      }
+    }
+  },
+  "Canara Bank": {
+    "ATM 1": {
+      "vibration": 77,
+      "power": 54,
+      "components": {
+        "Server Cluster": {
+          "cpu": 66,
+          "memory": 91,
+          "storage": 98,
+          "temperature": 72
+        },
+        "Storage Array": {
+          "cpu": 22,
+          "memory": 52,
+          "storage": 66,
+          "temperature": 50
+        },
+        "Network Switch": {
+          "cpu": 73,
+          "memory": 83,
+          "storage": 88,
+          "temperature": 68
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 52,
+      "power": 60,
+      "components": {
+        "Server Cluster": {
+          "cpu": 72,
+          "memory": 94,
+          "storage": 99,
+          "temperature": 73
+        },
+        "Storage Array": {
+          "cpu": 24,
+          "memory": 49,
+          "storage": 51,
+          "temperature": 30
+        },
+        "Network Switch": {
+          "cpu": 66,
+          "memory": 90,
+          "storage": 95,
+          "temperature": 61
+        }
+      }
+    }
+  },
+  "IDBI Bank": {
+    "ATM 1": {
+      "vibration": 40,
+      "power": 76,
+      "components": {
+        "Server Cluster": {
+          "cpu": 91,
+          "memory": 70,
+          "storage": 92,
+          "temperature": 70
+        },
+        "Storage Array": {
+          "cpu": 25,
+          "memory": 30,
+          "storage": 25,
+          "temperature": 33
+        },
+        "Network Switch": {
+          "cpu": 50,
+          "memory": 29,
+          "storage": 27,
+          "temperature": 53
+        }
+      }
+    },
+    "ATM 2": {
+      "vibration": 69,
+      "power": 50,
+      "components": {
+        "Server Cluster": {
+          "cpu": 42,
+          "memory": 32,
+          "storage": 51,
+          "temperature": 34
+        },
+        "Storage Array": {
+          "cpu": 71,
+          "memory": 84,
+          "storage": 94,
+          "temperature": 61
+        },
+        "Network Switch": {
+          "cpu": 48,
+          "memory": 22,
+          "storage": 60,
+          "temperature": 55
+        }
+      }
+    }
+  }
+}

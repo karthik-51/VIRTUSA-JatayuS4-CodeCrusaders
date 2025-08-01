@@ -1,0 +1,984 @@
+{
+  "State Bank of India (SBI)": {
+    "YONO SBI": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 3.41,
+          "Response Time": 989,
+          "Crashes/Week": 3,
+          "Uptime": 96.31
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.16,
+          "Response Time": 866,
+          "Crashes/Week": 3,
+          "Uptime": 95.04
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 3.12,
+          "Response Time": 1194,
+          "Crashes/Week": 2,
+          "Uptime": 96.19
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 1.03,
+          "Response Time": 242,
+          "Crashes/Week": 0,
+          "Uptime": 98.57
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 0.93,
+          "Response Time": 297,
+          "Crashes/Week": 0,
+          "Uptime": 98.66
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 3.05,
+          "Response Time": 1106,
+          "Crashes/Week": 2,
+          "Uptime": 95.28
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    },
+    "Online SBI": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 4.78,
+          "Response Time": 1153,
+          "Crashes/Week": 2,
+          "Uptime": 95.55
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 3.31,
+          "Response Time": 828,
+          "Crashes/Week": 2,
+          "Uptime": 95.92
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 1.14,
+          "Response Time": 322,
+          "Crashes/Week": 0,
+          "Uptime": 99.92
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 3.12,
+          "Response Time": 906,
+          "Crashes/Week": 3,
+          "Uptime": 95.78
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 1.25,
+          "Response Time": 315,
+          "Crashes/Week": 0,
+          "Uptime": 99.73
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 3.73,
+          "Response Time": 1107,
+          "Crashes/Week": 1,
+          "Uptime": 96.63
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "HDFC Bank": {
+    "PayZapp": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 0.6,
+          "Response Time": 397,
+          "Crashes/Week": 0,
+          "Uptime": 99.97
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 0.71,
+          "Response Time": 200,
+          "Crashes/Week": 0,
+          "Uptime": 98.96
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 4.29,
+          "Response Time": 1168,
+          "Crashes/Week": 3,
+          "Uptime": 95.53
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.78,
+          "Response Time": 288,
+          "Crashes/Week": 0,
+          "Uptime": 99.57
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 4.15,
+          "Response Time": 964,
+          "Crashes/Week": 1,
+          "Uptime": 95.18
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 3.26,
+          "Response Time": 812,
+          "Crashes/Week": 3,
+          "Uptime": 95.86
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    },
+    "HDFC Sky": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 0.32,
+          "Response Time": 363,
+          "Crashes/Week": 0,
+          "Uptime": 98.85
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.73,
+          "Response Time": 890,
+          "Crashes/Week": 1,
+          "Uptime": 96.2
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 0.85,
+          "Response Time": 314,
+          "Crashes/Week": 0,
+          "Uptime": 99.11
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.98,
+          "Response Time": 241,
+          "Crashes/Week": 0,
+          "Uptime": 99.42
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 0.8,
+          "Response Time": 384,
+          "Crashes/Week": 0,
+          "Uptime": 98.1
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 4.98,
+          "Response Time": 953,
+          "Crashes/Week": 3,
+          "Uptime": 96.74
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "ICICI Bank": {
+    "iMobile": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 3.99,
+          "Response Time": 801,
+          "Crashes/Week": 1,
+          "Uptime": 96.16
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 0.72,
+          "Response Time": 360,
+          "Crashes/Week": 0,
+          "Uptime": 99.46
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 3.32,
+          "Response Time": 1070,
+          "Crashes/Week": 2,
+          "Uptime": 95.38
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.72,
+          "Response Time": 208,
+          "Crashes/Week": 0,
+          "Uptime": 98.46
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 3.08,
+          "Response Time": 852,
+          "Crashes/Week": 3,
+          "Uptime": 96.68
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 4.76,
+          "Response Time": 912,
+          "Crashes/Week": 3,
+          "Uptime": 96.87
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    },
+    "Pockets": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 0.41,
+          "Response Time": 367,
+          "Crashes/Week": 0,
+          "Uptime": 99.28
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 1.41,
+          "Response Time": 378,
+          "Crashes/Week": 0,
+          "Uptime": 98.85
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 3.74,
+          "Response Time": 1081,
+          "Crashes/Week": 3,
+          "Uptime": 95.48
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 3.82,
+          "Response Time": 886,
+          "Crashes/Week": 2,
+          "Uptime": 96.07
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 1.09,
+          "Response Time": 391,
+          "Crashes/Week": 0,
+          "Uptime": 99.73
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 3.87,
+          "Response Time": 1110,
+          "Crashes/Week": 1,
+          "Uptime": 96.0
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "Axis Bank": {
+    "Axis Mobile": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 1.2,
+          "Response Time": 332,
+          "Crashes/Week": 0,
+          "Uptime": 98.16
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 3.0,
+          "Response Time": 806,
+          "Crashes/Week": 2,
+          "Uptime": 95.41
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 0.85,
+          "Response Time": 333,
+          "Crashes/Week": 0,
+          "Uptime": 98.35
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 1.4,
+          "Response Time": 353,
+          "Crashes/Week": 0,
+          "Uptime": 99.05
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 3.17,
+          "Response Time": 1182,
+          "Crashes/Week": 2,
+          "Uptime": 95.6
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 3.92,
+          "Response Time": 916,
+          "Crashes/Week": 2,
+          "Uptime": 95.15
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "Punjab National Bank (PNB)": {
+    "PNB One": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 4.74,
+          "Response Time": 1148,
+          "Crashes/Week": 1,
+          "Uptime": 95.29
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.58,
+          "Response Time": 882,
+          "Crashes/Week": 1,
+          "Uptime": 95.23
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 3.96,
+          "Response Time": 1025,
+          "Crashes/Week": 1,
+          "Uptime": 95.74
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.53,
+          "Response Time": 293,
+          "Crashes/Week": 0,
+          "Uptime": 99.01
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 4.68,
+          "Response Time": 1025,
+          "Crashes/Week": 1,
+          "Uptime": 95.68
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 0.39,
+          "Response Time": 272,
+          "Crashes/Week": 0,
+          "Uptime": 98.27
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "Kotak Mahindra Bank": {
+    "Kotak 811": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 4.42,
+          "Response Time": 1022,
+          "Crashes/Week": 3,
+          "Uptime": 96.88
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.32,
+          "Response Time": 873,
+          "Crashes/Week": 3,
+          "Uptime": 96.49
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 3.81,
+          "Response Time": 959,
+          "Crashes/Week": 1,
+          "Uptime": 95.48
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.48,
+          "Response Time": 342,
+          "Crashes/Week": 0,
+          "Uptime": 98.96
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 0.21,
+          "Response Time": 371,
+          "Crashes/Week": 0,
+          "Uptime": 98.88
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 0.31,
+          "Response Time": 314,
+          "Crashes/Week": 0,
+          "Uptime": 99.2
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "Bank of Baroda": {
+    "Baroda Connect": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 4.92,
+          "Response Time": 1006,
+          "Crashes/Week": 3,
+          "Uptime": 95.95
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.19,
+          "Response Time": 1030,
+          "Crashes/Week": 3,
+          "Uptime": 95.81
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 3.39,
+          "Response Time": 862,
+          "Crashes/Week": 1,
+          "Uptime": 95.96
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.94,
+          "Response Time": 352,
+          "Crashes/Week": 0,
+          "Uptime": 99.56
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 0.32,
+          "Response Time": 274,
+          "Crashes/Week": 0,
+          "Uptime": 98.63
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 0.96,
+          "Response Time": 209,
+          "Crashes/Week": 0,
+          "Uptime": 98.96
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "Union Bank of India": {
+    "Union Mobile": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 0.36,
+          "Response Time": 354,
+          "Crashes/Week": 0,
+          "Uptime": 99.02
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.15,
+          "Response Time": 1010,
+          "Crashes/Week": 1,
+          "Uptime": 96.35
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 0.51,
+          "Response Time": 240,
+          "Crashes/Week": 0,
+          "Uptime": 98.95
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 3.74,
+          "Response Time": 810,
+          "Crashes/Week": 3,
+          "Uptime": 95.06
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 1.03,
+          "Response Time": 274,
+          "Crashes/Week": 0,
+          "Uptime": 99.25
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 3.82,
+          "Response Time": 806,
+          "Crashes/Week": 2,
+          "Uptime": 96.36
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "Canara Bank": {
+    "Canara mBanking": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 0.83,
+          "Response Time": 227,
+          "Crashes/Week": 0,
+          "Uptime": 99.52
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.45,
+          "Response Time": 800,
+          "Crashes/Week": 3,
+          "Uptime": 95.96
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 4.53,
+          "Response Time": 991,
+          "Crashes/Week": 2,
+          "Uptime": 96.85
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 0.58,
+          "Response Time": 333,
+          "Crashes/Week": 0,
+          "Uptime": 98.64
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 0.25,
+          "Response Time": 306,
+          "Crashes/Week": 0,
+          "Uptime": 99.29
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 4.41,
+          "Response Time": 907,
+          "Crashes/Week": 1,
+          "Uptime": 95.21
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      }
+    }
+  },
+  "IDBI Bank": {
+    "IDBI Go": {
+      "Core Banking System": {
+        "features": {
+          "Error Rate": 3.05,
+          "Response Time": 990,
+          "Crashes/Week": 2,
+          "Uptime": 96.29
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Payment Gateway": {
+        "features": {
+          "Error Rate": 4.54,
+          "Response Time": 1103,
+          "Crashes/Week": 1,
+          "Uptime": 95.98
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Mobile App Services": {
+        "features": {
+          "Error Rate": 4.36,
+          "Response Time": 898,
+          "Crashes/Week": 3,
+          "Uptime": 96.25
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Notification Engine": {
+        "features": {
+          "Error Rate": 4.53,
+          "Response Time": 812,
+          "Crashes/Week": 3,
+          "Uptime": 96.2
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      },
+      "Fraud Detection Engine": {
+        "features": {
+          "Error Rate": 0.95,
+          "Response Time": 383,
+          "Crashes/Week": 0,
+          "Uptime": 99.64
+        },
+        "Random Forest": "Healthy",
+        "Decision Tree": "Healthy",
+        "XGBoost": "Healthy",
+        "Logistic Regression": "Critical"
+      },
+      "Loan Approval System": {
+        "features": {
+          "Error Rate": 4.67,
+          "Response Time": 890,
+          "Crashes/Week": 3,
+          "Uptime": 96.62
+        },
+        "Random Forest": "Warning",
+        "Decision Tree": "Warning",
+        "XGBoost": "Critical",
+        "Logistic Regression": "Critical"
+      }
+    }
+  }
+}

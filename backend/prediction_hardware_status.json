@@ -1,0 +1,262 @@
+{
+  "State Bank of India (SBI)": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 74,
+        "Power Supply": 69,
+        "CPU Usage": 49,
+        "Memory": 44,
+        "Storage": 56
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Warning",
+      "ANN": "Warning"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 87,
+        "Power Supply": 84,
+        "CPU Usage": 62,
+        "Memory": 64,
+        "Storage": 65
+      },
+      "Random Forest": "Warning",
+      "SVM": "Warning",
+      "ANN": "Warning"
+    }
+  },
+  "HDFC Bank": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 59,
+        "Power Supply": 87,
+        "CPU Usage": 38,
+        "Memory": 63,
+        "Storage": 51
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 84,
+        "Power Supply": 97,
+        "CPU Usage": 27,
+        "Memory": 35,
+        "Storage": 48
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "ICICI Bank": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 47,
+        "Power Supply": 70,
+        "CPU Usage": 43,
+        "Memory": 33,
+        "Storage": 44
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 49,
+        "Power Supply": 73,
+        "CPU Usage": 30,
+        "Memory": 45,
+        "Storage": 33
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "Axis Bank": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 53,
+        "Power Supply": 54,
+        "CPU Usage": 40,
+        "Memory": 45,
+        "Storage": 52
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 48,
+        "Power Supply": 97,
+        "CPU Usage": 35,
+        "Memory": 40,
+        "Storage": 64
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "Punjab National Bank (PNB)": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 53,
+        "Power Supply": 65,
+        "CPU Usage": 37,
+        "Memory": 57,
+        "Storage": 69
+      },
+      "Random Forest": "Warning",
+      "SVM": "Warning",
+      "ANN": "Warning"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 54,
+        "Power Supply": 77,
+        "CPU Usage": 48,
+        "Memory": 54,
+        "Storage": 69
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Warning",
+      "ANN": "Healthy"
+    }
+  },
+  "Kotak Mahindra Bank": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 83,
+        "Power Supply": 78,
+        "CPU Usage": 66,
+        "Memory": 70,
+        "Storage": 76
+      },
+      "Random Forest": "Warning",
+      "SVM": "Warning",
+      "ANN": "Warning"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 48,
+        "Power Supply": 82,
+        "CPU Usage": 31,
+        "Memory": 64,
+        "Storage": 59
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "Bank of Baroda": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 88,
+        "Power Supply": 57,
+        "CPU Usage": 52,
+        "Memory": 66,
+        "Storage": 81
+      },
+      "Random Forest": "Warning",
+      "SVM": "Warning",
+      "ANN": "Critical"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 41,
+        "Power Supply": 78,
+        "CPU Usage": 49,
+        "Memory": 47,
+        "Storage": 78
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "Union Bank of India": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 77,
+        "Power Supply": 71,
+        "CPU Usage": 65,
+        "Memory": 72,
+        "Storage": 74
+      },
+      "Random Forest": "Warning",
+      "SVM": "Warning",
+      "ANN": "Warning"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 41,
+        "Power Supply": 82,
+        "CPU Usage": 45,
+        "Memory": 53,
+        "Storage": 68
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "Canara Bank": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 70,
+        "Power Supply": 62,
+        "CPU Usage": 54,
+        "Memory": 63,
+        "Storage": 73
+      },
+      "Random Forest": "Warning",
+      "SVM": "Warning",
+      "ANN": "Warning"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 82,
+        "Power Supply": 76,
+        "CPU Usage": 37,
+        "Memory": 47,
+        "Storage": 43
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  },
+  "IDBI Bank": {
+    "ATM 1": {
+      "features": {
+        "ATM Vibration": 43,
+        "Power Supply": 79,
+        "CPU Usage": 37,
+        "Memory": 32,
+        "Storage": 43
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    },
+    "ATM 2": {
+      "features": {
+        "ATM Vibration": 57,
+        "Power Supply": 78,
+        "CPU Usage": 40,
+        "Memory": 49,
+        "Storage": 68
+      },
+      "Random Forest": "Healthy",
+      "SVM": "Healthy",
+      "ANN": "Healthy"
+    }
+  }
+}
