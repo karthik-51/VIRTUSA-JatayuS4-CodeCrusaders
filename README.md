@@ -8,9 +8,13 @@ Clone the project:
   cd VIRTUSA-JatayuS4-CodeCrusaders
 
 How to run Frontend:
+
   Open new terminal
+  
     cd frontend
+  
     npm install
+    
     npm run dev
  
 How to run Backend:
