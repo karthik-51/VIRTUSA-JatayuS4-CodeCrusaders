@@ -4,6 +4,7 @@ A full-stack application for predicting banking outcomes using machine learning,
 
 Clone the project:
   git clone https://github.com/karthik-51/VIRTUSA-JatayuS4-CodeCrusaders.git
+  
   cd VIRTUSA-JatayuS4-CodeCrusaders
 
 How to run Frontend:
